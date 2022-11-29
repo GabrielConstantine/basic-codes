@@ -4,6 +4,7 @@
 int main () {
     int numberPar; 
     int numberImpar;
+
     printf("\nNumeros Pares:");
     for(numberPar = 0; numberPar <= 50; numberPar = numberPar + 2) {
         printf("\n%d", numberPar);
